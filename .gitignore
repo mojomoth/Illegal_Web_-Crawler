@@ -1,0 +1,11 @@
+.DS_Store
+build
+node_modules
+
+*.png
+*.gif
+*.bmp
+*.jpg
+*.jpeg
+
+*.lock
